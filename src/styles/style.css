@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body{
+  background: #fff;
+  border-radius: 3px;
+}
+
+.container{
+  position: relative;
+}
+
+:root{
+  font-size: 10px;
+}
